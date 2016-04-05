@@ -1,0 +1,55 @@
+# User Settings | Edit these according to your site
+
+title: David N. Wright
+email: your@email.com
+author: David N. Wright
+
+description: > # this means to ignore newlines until "baseurl:"
+  Chaplin is a minimalistic, mobile friendly theme for Jekyll. Used by Dave.
+  The Documentation for it is available on this website itself. 
+  You can check out the source on <a href="http://github.com/bk2dcradle/Chaplin" class="deactivate-link"><span> GitHub </span></a>
+
+url: "http://davidnwright.github.io/" # the base hostname & protocol for your site
+baseurl: "/borderland" # the subpath of your site, e.g. /blog
+twitter_username: davidnwright
+github_username:  davidnwright
+
+permalink:          /:year/:title.html
+
+paginate: 4
+paginate_path: "/page/:num"
+comments: true
+
+heading_font: Lobster 
+about_footer: true
+short_bio: >
+    This is for testing; not reals.
+profile_picture: http://img3.rnkr-static.com/list_img/11570/111570/C300/movies-and-films-directed-by-charlie-chaplin-u4.jpg
+
+google_analytics: true
+tracking_id: # Your google analytics tracking id
+
+# Build settings | Do not edit anything below this
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+
+sass:
+  style:            compressed
+  sass_dir:         _sass
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
