@@ -1,7 +1,7 @@
 # User Settings | Edit these according to your site
 
 title: David N. Wright
-email: your@email.com
+email: davidnwright@outlook.com
 author: David N. Wright
 
 description: > # this means to ignore newlines until "baseurl:"
@@ -16,15 +16,15 @@ github_username:  davidnwright
 
 permalink:          /:year/:title.html
 
-paginate: 4
+paginate: 5
 paginate_path: "/page/:num"
 comments: true
 
 heading_font: Lobster 
 about_footer: true
 short_bio: >
-    This is for testing; not reals.
-profile_picture: http://img3.rnkr-static.com/list_img/11570/111570/C300/movies-and-films-directed-by-charlie-chaplin-u4.jpg
+    I'm someone who likes to think big and do little. But every once and awhile, I come up with something... 
+profile_picture: http://http://davidnwright.github.io/borderland/dnw-profile.jpg
 
 google_analytics: true
 tracking_id: # Your google analytics tracking id
