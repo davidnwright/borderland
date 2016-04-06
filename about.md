@@ -1,15 +1,12 @@
 ---
 layout: about
 title: About
-author: DNW
+author: David N. Wright
 permalink: /about/
 ---
 
-Hi! My name is Sandy!
+This is the space where I am thinking about how to build an anthology. Or, more likely, where I am thinking about the different processes involved in building a collaborative, open, anthology. 
 
-> We think too much and feel too little.
+It might be an anthology builder, or a workflow... evens.
 
-Or not. 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+>Connect by hailing me anywhere down below. 
